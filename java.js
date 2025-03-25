@@ -20,7 +20,7 @@ const questions = [
     },
     {
         question: "Do you miss me?",
-        response: "I know you miss me every weekend while cooking, every night after office hours, and even many more times. So, accept it. Can we forget all those fights and can you reply back?"
+        response: "I know you miss me. So, accept it. Can we forget all those fights and can you reply back?"
     }
 ];
 
